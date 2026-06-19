@@ -1,4 +1,4 @@
-## [Data Structure & Algorithm]
+## Data Structure & Algorithm
 https://github.com/blair-cheng/CS214
 Set as a private repository per Northwestern professor's policy. Please reach out for access (current students excluded).
 
