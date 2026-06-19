@@ -1,6 +1,6 @@
 ## Data Structure & Algorithm
-https://github.com/blair-cheng/CS214
-Set as a private repository per Northwestern professor's policy. Please reach out for access (current students excluded).
+####https://github.com/blair-cheng/CS214
+####Set as a private repository per Northwestern professor's policy. Please reach out for access (current students excluded).
 
 **Language:** DSSL2 (typed teaching language built on Racket)  
 **Assignments:** 4 + final project · **Lines:** ~2,200
